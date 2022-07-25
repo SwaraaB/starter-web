@@ -13,3 +13,5 @@ How should I continue
 #####Deployment Status
 This is in deployed stage
 
+######Copyright Notice
+Branching practice
