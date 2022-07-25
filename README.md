@@ -18,4 +18,5 @@ Branching practice
 Create a fork of this repository
 
 
-Adding a line for rebasing
+Adding a line for rebasing,
+more changes from my feature branch
