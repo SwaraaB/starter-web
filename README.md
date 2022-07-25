@@ -1,5 +1,5 @@
 # Starter Project
-
+What is the project about?
 
 ## Purpose
 Purpose is to demonstrate p4merge
@@ -8,6 +8,7 @@ Purpose is to demonstrate p4merge
 Introducing Git
 
 ####How to continue??
+How should I continue
 
 #####Deployment Status
 This is in deployed stage
