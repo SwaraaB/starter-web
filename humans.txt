@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
+Please review the course
 
     <name>
 
