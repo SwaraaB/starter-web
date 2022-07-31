@@ -15,6 +15,8 @@ This is in deployed stage
 
 ######Copyright Notice
 All Rights reserved
+Stash
+
 Branching practice
 Create a fork of this repository
 
